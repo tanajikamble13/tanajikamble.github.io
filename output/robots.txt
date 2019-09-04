@@ -1,0 +1,4 @@
+Sitemap: https://vision3d.com/sitemapindex.xml
+
+User-Agent: *
+Host: vision3d.com
