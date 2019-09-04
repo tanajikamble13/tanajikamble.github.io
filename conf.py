@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Tanaji"  # (translatable)
-BLOG_TITLE = "vision3d"  # (translatable)
+BLOG_AUTHOR = "Tanaji Kamble"  # (translatable)
+BLOG_TITLE = "All about computer vision AI "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://vision3d.com/"
@@ -25,7 +25,7 @@ SITE_URL = "https://vision3d.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://vision3d.com/"
 BLOG_EMAIL = "tanajikamble13@gmail.com"
-BLOG_DESCRIPTION = "All about computer vision AI"  # (translatable)
+BLOG_DESCRIPTION = "This is my personal blog on computer vision, AI, 3d image processing, machine learning and deep learning"  # (translatable)
 
 # Nikola is multilingual!
 #
