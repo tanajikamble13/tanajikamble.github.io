@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://vision3d.com/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/2019/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/archive.html</loc>
+  <lastmod>2019-09-04T13:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/categories/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/galleries/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/listings/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/pages/about/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vision3d.com/posts/test/</loc>
+  <lastmod>2019-09-04T13:02:00Z</lastmod>
+ </url>
+</urlset>
